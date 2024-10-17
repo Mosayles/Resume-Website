@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="style.css" />
+    <title>Resume</title>
+</head>
+
+<body>
+    <div id="resume">
+        <img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/4273/maurice-sayles.jpg" alt="Maurice Sayles">
+        <h1>Maurice Sayles</h1>
+        <p>Cell: <a href=#>904-676-7265</a>
+        <p>Web: <a href=#>mauricesayles.com</a>
+        <p>Email: <a href=#>masayles@iu.edu</a>
+        <p id="objective">I am looking for the next great opportunity to showcase my knowledge and expertise in the ever-growing construction industry with a progressive company. 15 years of experience in the construction field in various sectors and held various roles working closely with operations staff and client teams to identify, develop the case, and design and test efficiency improvement initiatives. 
+        <dl>
+            <dt>Education
+            <dd>
+                <h2>Indiana University East</h2>
+                <p><strong>Major:</strong> Professional and Technical Writing<br />
+                    <strong>Minor:</strong> Creative Writing
+                </p>
+        </dl>
+        <dl>
+            <dt>Skills
+            <dd>
+                <h2>Computer Skills</h2>
+                <p> Microsoft productivity software (Word, Excel, etc), Windows, AutoDesk, BlueBeam, Procore
+                <h2>Certifications</h2>
+                <p>CWI Licensed by AWS, NACE CIP 1, API 1169, D1.1, D17.1, OSHA 30
+        </dl>
+        <dl>
+            <dt>Professional Experience
+            <dd>
+                <h2>Anova<span>Construction Manager, Indianapolis 2024 – present</span></h2>
+                <ul>
+                    <li>Oversee production and development of infrastructure 
+                    <li>On-site client representation for IUH
+                </ul>
+                <h2>Turner & Townsend<span>Quality Manager, Indianapolis 2023 – 2024</span></h2>
+                <ul>
+                    <li>On-site client representation for USPS
+                </ul>
+                <h2>Magnolia River<span>CWI, Jacksonville 2019 – 2023</span></h2>
+                <ul>
+                    <li>On-site client representation for Peoples Gas
+                    <li>Oversaw pipeline production
+                </ul>
+            </dd>
+        </dl>
+        <dl>
+            <dt>Hobbies
+            <dd>Reading, Writing, Learning, Spending time with my family
+        </dl>
+        <dl>
+            <dt>Contact
+            <dd>If you have any questions, please don’t hesitate to contact me at 904-676-7265
+        </dl>
+    </div>
+</body>
+
+</html>
